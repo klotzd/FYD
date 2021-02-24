@@ -1,0 +1,9 @@
+diameter: 200
+catalyst density: 2500
+bulk_density: 900
+gas_viscosity: 0.00003032
+gas_density: 2.98          
+g:     9.81
+bubble_diameter: "Geldart A"
+mass_flow: 1800
+bed_diameter: 10
