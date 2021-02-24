@@ -1,9 +1,0 @@
-diameter: 250
-catalyst density: 1368
-bulk_density: 900
-gas_viscosity: 0.00003032
-gas_density: 2.98          
-g:     9.81
-bubble_diameter: .1
-mass_flow: 503.782
-bed_diameter: 8
